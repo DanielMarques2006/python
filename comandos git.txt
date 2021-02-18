@@ -1,0 +1,5 @@
+git init // SO se faz uma vez
+
+git add --all
+git commit -m "escrever a mensagem"
+git push origin master
