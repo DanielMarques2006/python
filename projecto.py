@@ -9,4 +9,4 @@ if lucro >= 0:
 else:
     print("O seu prejuizo é de: ", abs(lucro))  
 
-print("O imapcto percentual das despesas sobre o slario é de ", despesas * 100 // salario, "%")
+print("O imapcto percentual das despesas sobre o salário é de ", despesas * 100 // salario, "%")
