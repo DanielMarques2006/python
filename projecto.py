@@ -1,4 +1,4 @@
-# Estes é uma nova alteração
+# Estes é uma nova alteração do mi
 
 salario = float(input("Digite o seu salário: "))
 despesas = float(input("Digite o valor das suas despesas: "))
