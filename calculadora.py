@@ -4,18 +4,18 @@ operacao = input("insira a operação desejada: ")
 
 
 
-if operacao == "soma":
+if operacao == "soma" or operacao == "+":
     print("A soma de ", x, "e ", y, "é igual a ", x + y)
 
-elif operacao == "subtração":
+elif operacao == "subtração" or operacao == "-":
     print("A subtração de ", x, "e ", y, "é igual a ", x - y)
 
 
-elif operacao == "multiplicação":
+elif operacao == "multiplicação" or operacao == "*":
     print("A multiplicação de ", x, "e ", y, "é igual a ", x * y)
 
-elif operacao == "divisão":
-    print("A divisão de ", x, "e ", y, "é igual a ", x % y)
+elif operacao == "divisão" or operacao == "/":
+    print("A divisão de ", x, "e ", y, "é igual a ", x / y)
 
 else:
     print("Resposta invalida")
