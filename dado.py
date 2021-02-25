@@ -13,4 +13,4 @@ for i in range(1, 7):
         print("ACERTOU")
         break
 else:
-    print("NAO ACERTO")
+    print("NAO ACERTOU")
