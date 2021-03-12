@@ -25,3 +25,4 @@ elif operacao == "divisão" or operacao == "/":
 
 elif operacao == "potencia":
     print(x, "elevado a ", y, "é", x ** y)
+

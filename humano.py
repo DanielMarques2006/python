@@ -6,7 +6,6 @@ class Humano:
 
     def das_cavernas(self):
         self.especie = "homo Neanderthalennsis"
-        return self
 
 @staticmethod
 def especies():
